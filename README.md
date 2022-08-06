@@ -3,8 +3,8 @@
 </p>
 
 - 👋 I’m Carlos Regis
-<!-- - 👀 I’m interested in ...
-- 🌱 I’m currently learning ... -->
+<!-- - 👀 I’m interested in ... -->
+<!-- - 🌱 I’m currently learning ... -->
 - 📫 Reach me on: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cr@carlosregis.com)](mailto:cr@carlosregis.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-regis/)](https://www.linkedin.com/in/carlos-regis/)
 - 😄 You can download my CV [here](https://github.com/carlos-regis/carlos-regis/blob/master/CV_Carlos_Regis.pdf "here").
 - 😱 You can see my skills [here](https://github.com/carlos-regis/carlos-regis/blob/master/technical_skills.md "here").
