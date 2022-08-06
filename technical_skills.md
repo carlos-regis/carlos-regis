@@ -39,7 +39,7 @@
 | Technology  | Level | Time     | Version |
 |-------------|-------|----------|---------|
 | MySQL       | 1     | 1 year   | 8.0.2   |
-| PostgreSQL  | 1     | 1 year   | 8       |
+| PostgreSQL  | 1     | 2 years  | 11      |
 
 #### Other
 
