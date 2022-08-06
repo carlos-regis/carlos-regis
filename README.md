@@ -1,6 +1,6 @@
 <p align="center">
-  <h1 align="center">  <Hello World!> 👋</h1>
-  <h1 align="center">  My name is Carlos Regis 🔥</h1> 
+  <h1 align="center">&lt;Hello World!&gt; 👋</h1>
+  <h1 align="center">Carlos Regis here</h1> 
 </p>
 
 - 👋 Hi, I’m @carlos-regis
