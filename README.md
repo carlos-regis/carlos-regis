@@ -35,7 +35,7 @@
 </p>
 
 ## Statistics
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-regis" alt="carlos-regis" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-regis" alt="Carlos Regis" /></p>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=carlos-regis" height="150" alt="stats graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=carlos-regis" height="150" alt="languages graph" />
@@ -45,5 +45,3 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/carlos-regis)](https://github.com/carlos-regis)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-regis/)](https://www.linkedin.com/in/carlos-regis/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cr@carlosregis.com)](mailto:cr@carlosregis.com)
-
-⭐️ From [Carlos Regis](https://github.com/carlos-regis)
