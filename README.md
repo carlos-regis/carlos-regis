@@ -15,7 +15,6 @@
 <p align="left">
 <img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/java-original.svg" alt="java" width="60" height="60"/>
 <img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/>
-<img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/csharp-original.svg" alt="csharp" width="60" height="60"/>
 </p>
 
 #### Frontend
@@ -24,14 +23,11 @@
 <img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/css3-original-wordmark.svg" alt="css3" width="60" height="60"/>
 <img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/javascript-original.svg" alt="javascript" width="60" height="60"/>
 <img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/react-original-wordmark.svg" alt="react" width="60" height="60"/>
-<img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/android-original-wordmark.svg" alt="android" width="60" height="60"/>
 </p>
 
 #### Database
 <p align="left">
 <img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/mysql-original.svg" alt="mysql" width="60" height="60"/>
-<img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/>
-<img src="https://github.com/carlos-regis/carlos-regis/blob/main/icons/firebase-original.svg" alt="firebase" width="60" height="60"/>
 </p>
 
 ## Statistics
