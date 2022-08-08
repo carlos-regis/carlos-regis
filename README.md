@@ -7,7 +7,7 @@
 
 - 👋 I’m Carlos Regis
 - 📫 Reach me on: [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cr@carlosregis.com)](mailto:cr@carlosregis.com) | [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-regis/)](https://www.linkedin.com/in/carlos-regis/)
-- 😄 My resume: [here](https://github.com/carlos-regis/carlos-regis/blob/main/Carlos_Regis_Resume_220806.pdf "here").
+- 😄 My resume: [here](https://github.com/carlos-regis/carlos-regis/blob/main/Carlos_Regis_Resume_220808.pdf "here").
 - 😱 My technical skills [here](https://github.com/carlos-regis/carlos-regis/blob/main/technical_skills.md "here").
 
 ## Technologies I know and I'm currently learning
